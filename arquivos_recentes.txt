@@ -1,0 +1,6 @@
+C:\Users\gabriel\.portugol\portugol-contador.por
+C:\Users\gabriel\.portugol\portugol-escolha-caso.por
+C:\Users\gabriel\.portugol\portugol-bomba.por
+C:\Users\gabriel\.portugol\portugol-senão-se.por
+C:\Users\gabriel\.portugol\portugol-operaçoes basicas-por.por
+C:\Users\gabriel\.portugol\portugol-decisaõ-1.por
